@@ -1,0 +1,668 @@
+.greenline-icon,
+.group-icon {
+  width: 197.2px;
+  height: 28.27%;
+  position: absolute;
+  margin: 0 !important;
+  top: 58.8%;
+  bottom: 12.93%;
+  left: calc(50% - 129px);
+  max-height: 100%;
+  z-index: 0;
+}
+.group-icon {
+  height: 48.26%;
+  width: 140px;
+  top: 39.57%;
+  bottom: 12.17%;
+  left: calc(50% - 73.5px);
+}
+.div {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+}
+.description-with-bg,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.wrapper {
+  z-index: 1;
+}
+.description-with-bg {
+  height: 23px;
+  padding: 0 9px 0 2px;
+  box-sizing: border-box;
+  position: relative;
+}
+.p {
+  margin: 0;
+}
+.div1 {
+  width: 189px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 21px;
+  font-weight: 500;
+  display: inline-block;
+}
+.container,
+.last-description {
+  width: 189px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.last-description {
+  height: 8.6%;
+  margin: 0 !important;
+  position: absolute;
+  top: 87.5%;
+  bottom: 3.9%;
+  left: calc(50% - 0px);
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 1;
+}
+.grab {
+  width: 224px;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+  display: inline-block;
+}
+.grab-wrapper,
+.screen1-description {
+  display: flex;
+  justify-content: flex-start;
+}
+.grab-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.screen1-description {
+  width: 344px;
+  height: 9.2%;
+  margin: 0 !important;
+  position: absolute;
+  top: 69.2%;
+  bottom: 21.6%;
+  left: calc(50% - 179px);
+  flex-direction: column;
+  align-items: flex-end;
+  z-index: 2;
+}
+.h3 {
+  margin: 0;
+  width: 344px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame {
+  width: 344px;
+  height: 8.7%;
+  margin: 0 !important;
+  position: absolute;
+  top: 50.9%;
+  bottom: 40.4%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 3;
+  font-size: 25px;
+}
+.h1 {
+  margin: 0;
+  height: 120px;
+  width: 358px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.animation1-icon,
+.screen1-title1 {
+  margin: 0 !important;
+  position: absolute;
+}
+.screen1-title1 {
+  width: 358px;
+  height: 12%;
+  top: 5.3%;
+  bottom: 82.7%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 4;
+  font-size: 35px;
+}
+.animation1-icon {
+  width: 450px;
+  height: 29.19%;
+  top: 22.65%;
+  bottom: 48.16%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 5;
+}
+.screen1 {
+  align-self: stretch;
+  height: 1000px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 53px 46px 40px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 313px;
+  background-image: url(./public/screen1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 17px;
+  color: #005339;
+  font-family: "Inter Khmer Loopless";
+}
+.button1-icon,
+.greenline-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.button1-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 246.3px;
+  height: 4.17%;
+  top: 91.9%;
+  bottom: 3.93%;
+  left: calc(50% - 66.6px);
+  z-index: 0;
+}
+.greenline-icon1 {
+  width: 281.8px;
+  height: 73.49%;
+  top: 17.6%;
+  bottom: 8.91%;
+  left: calc(50% - 160px);
+  z-index: 1;
+}
+.p7,
+.p8 {
+  margin: 0;
+  font-weight: 500;
+}
+.p8 {
+  font-weight: 800;
+}
+.div2 {
+  width: 300px;
+  position: absolute;
+  margin: 0 !important;
+  top: 29.2%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 2;
+}
+.span {
+  font-weight: 500;
+}
+.co {
+  font-weight: 800;
+}
+.co-container {
+  width: 279px;
+  position: absolute;
+  margin: 0 !important;
+  top: 75.1%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 3;
+}
+.b,
+.h11 {
+  position: relative;
+  display: inline-block;
+}
+.b {
+  width: 154px;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.h11 {
+  margin: 0;
+  align-self: stretch;
+  height: 120px;
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: #005339;
+  min-width: 358px;
+}
+.screen2-title {
+  width: 358px;
+  height: 14.4%;
+  margin: 0 !important;
+  position: absolute;
+  top: 6.2%;
+  bottom: 79.4%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  z-index: 4;
+  color: #00b14f;
+}
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 116.25px);
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+.clip-path-group,
+.vector-icon1 {
+  height: 70.23%;
+  top: 3.53%;
+  bottom: 26.24%;
+  left: calc(50% - 100.75px);
+  max-height: 100%;
+  width: 208.2px;
+}
+.clip-path-group {
+  position: absolute;
+  object-fit: cover;
+}
+.vector-icon1 {
+  object-fit: contain;
+}
+.div3,
+.group,
+.vector-icon1 {
+  position: absolute;
+}
+.div3 {
+  top: 67.51%;
+  left: calc(50% - 98.14px);
+  line-height: 17px;
+  display: inline-block;
+  width: 181.6px;
+  transform: rotate(6.9deg);
+  transform-origin: 0 0;
+}
+.group {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 116.25px);
+  width: 100%;
+}
+.image,
+.music-animation-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.image {
+  width: 232.5px;
+  height: 24.96%;
+  top: 44.15%;
+  bottom: 30.89%;
+  left: calc(50% - 123.7px);
+  z-index: 5;
+  font-size: 11px;
+}
+.music-animation-icon {
+  width: 450px;
+  height: 35.42%;
+  top: 39.3%;
+  bottom: 25.28%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 6;
+}
+.screen2 {
+  align-self: stretch;
+  height: 1000px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 62px 46px 60px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 51px;
+  background-image: url(./public/screen2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 17px;
+  color: #005339;
+  font-family: "Inter Khmer Loopless";
+}
+.button2-icon,
+.greenline-icon2 {
+  position: absolute;
+  margin: 0 !important;
+  max-height: 100%;
+}
+.button2-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 246.3px;
+  height: 4.35%;
+  top: 91.42%;
+  bottom: 4.23%;
+  left: calc(50% - 67px);
+  z-index: 0;
+}
+.greenline-icon2 {
+  width: 283.9px;
+  height: 73.08%;
+  top: 17.54%;
+  bottom: 9.38%;
+  left: calc(50% - 171px);
+  z-index: 1;
+}
+.co-container1,
+.hydrologic {
+  width: 283px;
+  position: absolute;
+  margin: 0 !important;
+  top: 23.9%;
+  left: calc(50% - 179px);
+  letter-spacing: -0.01em;
+  line-height: 22px;
+  display: inline-block;
+  z-index: 2;
+}
+.co-container1 {
+  width: 245px;
+  top: 72.03%;
+  z-index: 3;
+}
+.b1,
+.h12 {
+  position: relative;
+  display: inline-block;
+}
+.b1 {
+  width: 160px;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+}
+.h12 {
+  margin: 0;
+  width: 360px;
+  font-size: 35px;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+  color: #005339;
+}
+.parent {
+  height: 10.86%;
+  margin: 0 !important;
+  position: absolute;
+  top: 6.26%;
+  bottom: 82.88%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1px;
+  z-index: 4;
+  color: #00b14f;
+}
+.group-icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 115.2px);
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.div4,
+.group-icon1,
+.image1 {
+  position: absolute;
+}
+.div4 {
+  top: 68.37%;
+  left: calc(50% - 99.22px);
+  line-height: 14px;
+  display: inline-block;
+  width: 192.1px;
+  transform: rotate(6.9deg);
+  transform-origin: 0 0;
+}
+.image1 {
+  width: 230.4px;
+  height: 25.87%;
+  margin: 0 !important;
+  top: 41.4%;
+  bottom: 32.73%;
+  left: calc(50% - 119.9px);
+  z-index: 5;
+  font-size: 11px;
+}
+.screen3 {
+  align-self: stretch;
+  height: 958px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 60px 46px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 48px;
+  background-image: url(./public/screen3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 17px;
+  color: #005339;
+  font-family: "Inter Khmer Loopless";
+}
+.button3-icon {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 224.2px;
+  height: 6.33%;
+  top: 89.5%;
+  bottom: 4.17%;
+  left: calc(50% - 45.8px);
+  max-height: 100%;
+  z-index: 0;
+}
+.button3-icon,
+.div5,
+.div6,
+.greenline-icon3 {
+  position: absolute;
+  margin: 0 !important;
+}
+.greenline-icon3 {
+  width: 202.5px;
+  height: 70.32%;
+  top: 18.45%;
+  bottom: 11.23%;
+  left: calc(50% - 123px);
+  max-height: 100%;
+  z-index: 1;
+}
+.div5,
+.div6 {
+  width: 344px;
+  top: 28.06%;
+  left: calc(50% - 179px);
+  line-height: 23px;
+  font-weight: 800;
+  display: inline-block;
+  z-index: 2;
+}
+.div6 {
+  width: 268px;
+  top: 69.32%;
+  font-size: 17px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  z-index: 3;
+}
+.grab1,
+.h13 {
+  position: relative;
+}
+.h13 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 800;
+  font-family: inherit;
+}
+.grab1 {
+  width: 275px;
+  font-size: 17px;
+  letter-spacing: -0.01em;
+  line-height: 23px;
+  font-weight: 500;
+  display: inline-block;
+}
+.screen5-title {
+  width: 358px;
+  height: 12.99%;
+  margin: 0 !important;
+  position: absolute;
+  top: 5.46%;
+  bottom: 81.55%;
+  left: calc(50% - 179px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+  z-index: 4;
+  font-size: 35px;
+}
+.group-icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 114.5px);
+  max-height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.div7 {
+  position: absolute;
+  top: 76.11%;
+  left: calc(50% - 99.64px);
+  letter-spacing: -0.01em;
+  line-height: 14px;
+  font-weight: 800;
+  transform: rotate(6deg);
+  transform-origin: 0 0;
+}
+.animation4-icon,
+.image2 {
+  position: absolute;
+  margin: 0 !important;
+}
+.image2 {
+  width: 229px;
+  height: 25%;
+  top: 37.41%;
+  bottom: 37.59%;
+  left: calc(50% - 119.4px);
+  z-index: 5;
+  font-size: 21px;
+  color: #005339;
+  font-family: "Grab Community Solid KH";
+}
+.animation4-icon {
+  width: 449.6px;
+  height: 36.35%;
+  top: 31.99%;
+  bottom: 31.66%;
+  left: calc(50% - 225px);
+  max-height: 100%;
+  z-index: 6;
+}
+.grab-kh,
+.screen4bottomhalf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.screen4bottomhalf {
+  align-self: stretch;
+  height: 916px;
+  padding: 50px 46px 40px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 69px;
+  background-image: url(./public/screen4bottomhalf@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 16.5px;
+  color: #fff;
+  font-family: "Inter Khmer Loopless";
+}
+.grab-kh {
+  width: 450px;
+  max-width: 800px;
+  min-width: 360px;
+  line-height: normal;
+  letter-spacing: normal;
+}
